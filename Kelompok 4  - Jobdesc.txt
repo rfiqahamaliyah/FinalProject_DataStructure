@@ -1,0 +1,6 @@
+Pembagian Tugas
+structs1.cpp : Arifki Ilham (1301210405)
+structs2.cpp : Rifqah Amaliyah (1301213241)
+main & header : Dikerjakan bersama
+
+Github : https://github.com/Veroes/tubes-std-MLL-1toN.git
